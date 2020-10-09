@@ -11,7 +11,6 @@
 // @updateURL    https://imabotplayer.github.io/proudmod-agar/main.user.js
 // @run-at       document-start
 // @grant        GM_xmlhttpRequest
-// me
 // @grant        GM_registerMenuCommand
 
 // ==/UserScript==
