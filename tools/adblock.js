@@ -6,6 +6,6 @@ let ads = [
 	document.querySelector("#videoContainer")
 ];
 
-for(let i = 0; i > ads.length; i++) {
+for(let i = 0; i < ads.length; i++) {
 	ads[i].innerHTML = null;
 }
